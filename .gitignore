@@ -63,7 +63,6 @@ enos/.enos
 enos/support
 
 .DS_Store
-.idea
 .vscode
 
 dist/*
@@ -107,11 +106,8 @@ ui/vault-ui-integration-server.pid
 node_modules
 
 # Website
-website/.bundle
 website/build/
 website/npm-debug.log
-website/vendor
-website/.bundle
 website/.cache
 website/assets/node_modules
 website/assets/public
