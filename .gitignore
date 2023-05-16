@@ -63,6 +63,10 @@ enos/.enos
 enos/support
 
 .DS_Store
+<<<<<<< HEAD
+=======
+.idea
+>>>>>>> 1f4ab88 (initial commit)
 .vscode
 
 dist/*
