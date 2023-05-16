@@ -1,4 +1,4 @@
-# yandex-kms-vault-wrapper
+# Yandex Cloud KMS for Hashicorp Vault
 This is a wrapper of Yandex Cloud KMS service for Hashicorp Vault.
 You can use it to unseal the vault with KMS located in the Yandex Cloud. 
 
