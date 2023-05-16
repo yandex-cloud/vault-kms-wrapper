@@ -1,4 +1,4 @@
-module github.com/segflt01/yandex-kms-vault-wrapper/v2
+module github.com/yandex-cloud/vault-kms-wrapper/v2
 
 go 1.20
 
