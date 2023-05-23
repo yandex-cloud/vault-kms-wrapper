@@ -3,7 +3,7 @@ module github.com/yandex-cloud/vault-kms-wrapper/v2
 go 1.20
 
 require (
-	github.com/hashicorp/go-kms-wrapping/v2 v2.0.8
+	github.com/hashicorp/go-kms-wrapping/v2 v2.0.7
 	github.com/yandex-cloud/go-genproto v0.0.0-20230515103554-c6064682c41e
 	github.com/yandex-cloud/go-sdk v0.0.0-20230515104003-a4cf880c2959
 	google.golang.org/grpc v1.55.0
